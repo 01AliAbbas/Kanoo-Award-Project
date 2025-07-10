@@ -133,4 +133,8 @@ Retailers can interact with the system using our browser-based portal.
 
 This is not just a digital receipt app — it is a **next-generation finance, warranty, and consumer protection system** powered by AI and cloud technology.  
 
-If you need help with access or setup, feel free to reach out.
+
+
+# Important notes:
+- If you need help with access, setup or any question about the project feel free to reach out.
+- If need more details about the functional requirements you can refer to the report in the functional requirements chapter.
